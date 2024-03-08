@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hello</pattern>
+    <template>Hello, My name is tooviibot, your personal assistant. How may I help you?</template>
+  </category>
+<category>
+    <pattern>Who is Angus</pattern>
+    <template>Lets talk about that over Long Island Iced Tea. Next?</template>
+</category>
+<category>
+    <pattern>VOD </pattern>
+    <template>It is called IREBRE but I will spell it for our audience, I   R   E   B   E   R   E</template>
+</category>
+<category>
+    <pattern>How much is ibanze</pattern>
+    <template>Our ibanze package is at 3900 Rwandan Francs</template>
+</category>
+<category>
+    <pattern>How many packages do you have</pattern>
+    <template>2 packages: Base(Ibanze) and Premium(Agahebuzo)</template>
+</category>
+</aiml>
